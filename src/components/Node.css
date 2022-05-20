@@ -1,0 +1,55 @@
+.collapsible {
+    background-color: #FFFFFF;
+    padding: 5px 0px 3px 6px;
+    margin-bottom: 8px;
+    border-bottom: 10px;
+}
+
+.header {
+    cursor: pointer;
+    margin: 0;
+  }
+
+  .server--info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+  }
+
+  .server--status {
+    width: 53px;
+    height: 17px;
+    left: 931px;
+    top: 132px;      
+  }
+
+  .node--title {
+    height: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 0.25px;
+    margin: 0;
+  }
+
+  .node--url {
+    height: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    color: #263238;
+    letter-spacing: 0.25px;  
+    margin: 0;  
+  }
+
+  .node--status {
+    width: 24px;
+    height: 24px;
+    right: 24px;
+    top: 12px;
+  }
+
+  .blocks--container {
+      height: auto;
+  }
+
