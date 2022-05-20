@@ -1,5 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+A screenshot of the app is presented below:
+
+<p align="center">
+    <img alt="Home Page" style="border: 1px solid black;" src="./app_screenshot.png" width="700">
+</p>
+
 # Server-status-monitor
 
 The current application is displaying a list of nodes. Don’t worry about what Nodes or Blocks are, just know that a Node has many Blocks. Each node represents a server. Each server implements the same API but returns different data. 
