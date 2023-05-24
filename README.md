@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 A screenshot of the app is presented below:
 
 <p align="center">
